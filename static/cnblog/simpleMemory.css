@@ -13,6 +13,9 @@ https://cdn.jsdelivr.net/gh/BNDong/Cnblogs-Theme-SimpleMemory@2.1.0/dist/
     display: inline !important;
 }
 
+#cnblogs_ch,
+#under_post_card1,
+#under_post_card2,
 #rightMenuSite {
     display: none !important;
 }
